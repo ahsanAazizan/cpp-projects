@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Mortgage Calculator (in dollar)
+// Mortgage Calculator (in dollar)
 
 double calculateMortgage(int p, float r, int n){
     const int MONTH = 12;
